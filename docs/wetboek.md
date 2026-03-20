@@ -105,9 +105,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Poging tot plegen** |   |   | € 2000,-  |
-| **Veroordeling voor plegen**  |   | 30 uur | € 3000,-  |
-| **Meervoudig plegen**  | 25 maanden  |  |   |
+|  **Poging tot plegen** | 10 maanden  |   | € 20000,-  |
+| **Veroordeling voor plegen**  | 20 maanden  | | € 30000,-  |
+| **Meervoudig plegen**  | 35 maanden  |  |  € 40000,- |
 
 
 ### Artikel I-3 Afdreiging / Chantage (318 SR)
@@ -117,8 +117,8 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Poging tot plegen** |  | 20 uur  | € 3000,-  |
-| ** Veroordeling voor plegen**  | 15 maanden  |   |   |
+|  **Poging tot plegen** |  | 20 uur  | € 8000,-  |
+| ** Veroordeling voor plegen**  | 15 maanden  |   | € 15000,-  |
 | **Meervoudig plegen**  | 25 maanden  |   |   |
 
 ### Artikel I-4 Witwassen (420bis SR)
