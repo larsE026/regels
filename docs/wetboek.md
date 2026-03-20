@@ -39,6 +39,8 @@
 8. Te allen tijde geldt er een maximum aantal taakstraffen van 100 taken. 
 9. Wanneer je taken en celstraf zou krijgen wordt dit veranderd naar alleen een celstraf. Per 3 taken is het 1 maand extra gevangenis straf.
 10. Iemand mag maximaal 15 minuten in voorarrest zitten, elke maand langer wordt afgetrokken van het totaal aantal taken/maanden. Het verhoor en gesprekken met de advocaat vallen niet onder deze 15 minuten.
+11. Medeplichtigheid is 75% van de strafeis per feit, dus een Veroordeling van 10 maanden is bij medeplegen 7,5 maand.
+12. Straffen worden in voordeel van de verdacht afgerond. 7,5 maand word in de gunst van de verdacht afgerond naar 7 maanden.
 
 ### A3 - Strafblad
 
@@ -92,9 +94,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Poging tot plegen** |   | 15 uur  | €1500,-  |
-| **Veroordeling voor plegen**  |   | 25 uur | €2500,-  |
-| **Meervoudig plegen**  | 15 maanden  |   |   |
+|  **Poging tot plegen** |   | 15 uur  | €15000,-  |
+| **Veroordeling voor plegen**  |   | 25 uur | €20000,-  |
+| **Meervoudig plegen**  | 15 maanden  |   |  €25000 |
 
 ### Artikel I-2 Diefstal met geweld / Overval (312 SR)
 
@@ -103,7 +105,7 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Poging tot plegen** |   | 20 uur  | € 2000,-  |
+|  **Poging tot plegen** |   |   | € 2000,-  |
 | **Veroordeling voor plegen**  |   | 30 uur | € 3000,-  |
 | **Meervoudig plegen**  | 25 maanden  |  |   |
 
@@ -295,7 +297,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 
 
-### Artikel III-4 Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WVW)
+### Artikel III-3 Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WVW)
 
 1. Schuldig is een persoon die een ongeval veroorzaakt, met al dan niet licht lichamelijk letsel aan een derde tot gevolg, door een gevaarlijke dan wel hinderlijke deelname aan het verkeer.
 2. Licht lichamelijk letsel is in deze alle letsel die ter plaatse, zonder ziekenhuisopname, te behandelen is.
@@ -306,7 +308,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Veroordeling voor plegen**  |   | 15 uur |  €3000,- |
 | **Meervoudig plegen**  |   | 20 uur  | €4000,-  |
 
-### Artikel III-5 Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WVW)
+### Artikel III-4 Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WVW)
 
 1. Schuldig is een persoon die een ongeval veroorzaakt, met zwaar lichamelijk letsel aan een derde tot gevolg, door een gevaarlijke dan wel hinderlijke deelname aan het verkeer.
 2. Zwaar lichamelijk letsel is in dezen alle letsel die niet ter plaatse te behandelen is.
@@ -318,7 +320,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Veroordeling bij plegen**  |   | 20 uur | € 4000,-   |
 | **Meervoudig plegen**  |   | 25 uur | € 5000,-   |
 
-### Artikel III-6 Veroorzaken ongeval, met de dood tot gevolg (6 WVW)
+### Artikel III-5 Veroorzaken ongeval, met de dood tot gevolg (6 WVW)
 
 1. Schuldig is een persoon die een ongeval veroorzaakt, met de dood van een derde tot gevolg, door een gevaarlijke dan wel hinderlijke deelname aan het verkeer.
 2. Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
@@ -329,7 +331,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Veroordeling bij plegen**  | 10 maanden  |  | € 5000,-  | 
 | **Meervoudig plegen**  | 15 maanden  |  | € 6000,-  |  
 
-### Artikel III-7 Verlaten plaats van verkeersongeval (7 WVW)
+### Artikel III-6 Verlaten plaats van verkeersongeval (7 WVW)
 
 1. Schuldig is een persoon die een plaats van verkeersongeval verlaat ongeacht of hij of zij schuldig was aan het veroorzaken daarvan.
 2 Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
@@ -340,7 +342,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Veroordeling bij plegen**  | 10 maanden  |  |   | 
 | **Meervoudig plegen**  | 15 maanden  |  |  | 
 
-### Artikel III-8 Rijden onder invloed (8 WVW)
+### Artikel III-7 Rijden onder invloed (8 WVW)
 
 1. Schuldig is een persoon die deelneemt aan het verkeer onder invloed van alcohol, verdovende middelen of medicijnen die de rijvaardigheid beïnvloeden.
 2. Uitzonderingsgrond is het te voet deelnemen aan het verkeer.
@@ -351,7 +353,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Veroordeling bij plegen*  |   | 30 uur | € 2000,-  | 
 | **Meervoudige pleging**  |   | 35 uur | € 3000,-  | 
 
-### Artikel III-9 Rijden zonder rijbewijs (9 WVW)
+### Artikel III-8 Rijden zonder rijbewijs (9 WVW)
 
 1. Schuldig is een persoon die weet of redelijkerwijs behoort te weten dat hem of haar de rijbevoegdheid is ontzegd en desondanks deelneemt aan het verkeer.
 2. Wanneer de bevoegdheid is ontzegd middels een invordering van het rijbewijs, dan geldt dit voor alle categoriën van dat rijbewijs.
@@ -363,7 +365,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Meervoudige pleging**  |   | 20 uur | € 5000,-  | 
 
 
-### Artikel III-12 Voertuigeisen
+### Artikel III-9 Voertuigeisen
 
 1. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, indien dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
 2. Indien een voertuig ramen bezit dient het gezicht van de bestuurder en passagier(s) duidelijk zichtbaar te zijn, indien dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor. Dit geldt voor de voorruit en de naast de bestuurderszitplaats aanwezige zijruiten.
@@ -385,7 +387,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 1. Voertuig word afgesleept en inbeslaggenomen via de regels van de inbeslagname.
 
-### Artikel III-13 Overige verkeersboetes
+### Artikel III-10 Overige verkeersboetes
 
 1. Ter bevordering van transparantie is dit artikel met gespecificeerde boetes opgenomen.
 2. Onderstaande strafbare feiten kunnen bestraft worden met een boete, als zodanig.
@@ -497,9 +499,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Meervoudig inzetten als geweldsmiddel**  | 12 maanden  |  |   |
 
 
-## Titel VII - Overige
+## Titel VI - Overige
 
-### Artikel VII-1 Niet voldoen aan een bevel of vordering (184 SR)
+### Artikel VI-1 Niet voldoen aan een bevel of vordering (184 SR)
 
 1. Schuldig is een persoon die opzettelijk niet voldoet aan een bevel of vordering dat krachtens wettelijk voorschrift wordt gegeven door een ambtenaar in functie.
 2. Schuldig is een persoon die opzettelijk een ambtenaar in functie belemmert in de uitvoering daarvan.
@@ -508,7 +510,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 |---|---|---|---|
 | **Veroordeling bij plegen**  |   | 25 uur  | € 320,-  |
 
-### Artikel VII-2 Belediging ambtenaar in functie (266 SR)
+### Artikel VI-2 Belediging ambtenaar in functie (266 SR)
 
 1. Schuldig is een persoon die opzettelijk een ander belegdigt.
 2. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de boete met 33% verhoogd.
@@ -518,7 +520,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Veroordeling bij plegen**  |   | 20 uur  | € 1500,-  |
 
 
-### Artikel VII-3 Dragen van gezichtsbedekkende kledij (1 Wet gedeeltelijk verbod gezichtsbedekkende kleding)
+### Artikel VI-3 Dragen van gezichtsbedekkende kledij (1 Wet gedeeltelijk verbod gezichtsbedekkende kleding)
 
 1. Schuldig is een persoon die kleding draagt, die het gezicht geheel bedekt of zodanig bedekt dat alleen de ogen onbedekt zijn, dan wel onherkenbaar maakt, op straffe van een boete van €10000,- per geval.
 2. Het eerste lid is niet van toepassing, voor zover kleding als bedoeld in dat lid:
@@ -528,7 +530,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
     4. passend is in verband met het deelnemen aan een feestelijke of een culturele activiteit.
 
 
-### Artikel VII-10 Huisvredebreuk (138 SR)
+### Artikel VI-4 Huisvredebreuk (138 SR)
 
 1. Schuldig is een persoon die een woning of besloten lokaal of erf bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert.
 2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van lockpicks, van een valse order of vals kostuum, of die, zonder voorkennis van de rechthebbende en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
@@ -538,7 +540,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Veroordeling bij plegen**  |   | 25 uur  | € 3000,- |
 | **Meervoudig plegen**  |   | 35 uur | € 4000,- |
 
-### Artikel VII-11 Betreden van verboden domein
+### Artikel VI-5 Betreden van verboden domein
 
 1. Schuldig is een persoon die zonder daartoe gerechtigd is, over iemand anders zijn grond waarvan de toegang op een voor hem blijkbare wijze door den rechthebbende is verboden, loopt, rijdt of vee laat lopen.
 2. Schuldig is een persoon die zonder daartoe gerechtigd is, over bij wet geclassificeerde verboden domeinen te lopen, rijden, varen, vliegen of landen zonder nadrukkelijke en aantoonbaar toestemming te hebben verkregen van de Politie, Koninklijke Marechaussee, Koninklijke Luchtmacht of Korps Commando Troepen.
@@ -557,11 +559,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Veroordeling bij plegen  | 15 maanden | |   |
 | Meervoudig plegen  | 20 maanden |  |   |
 
-### Artikel VII-12 Recht op bijstand Advocaat tijdens huiszoeking (artikel 99a sv)
+### Artikel VI-6 Recht op bijstand Advocaat tijdens huiszoeking (artikel 99a sv)
 
 1. De verdachte is bevoegd zich tijdens het doorzoeken van plaatsen door zijn advocaat te doen bijstaan, zonder dat de doorzoeking daardoor mag worden opgehouden.
 
-### Artikel VII-15 Misdrijven tegen de openbare orde (131 SR)
+### Artikel VI-7 Misdrijven tegen de openbare orde (131 SR)
 
 1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft volgens onderstaande tabel.
 
@@ -570,7 +572,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Veroordeling bij plegen| 20 uur |  | € 5000,-  |
 | Meervoudig plegen  | 10 maanden |  |   |
 
-### Artikel VII-16 Disrespect tegen het openbaar gezag (189 SR)
+### Artikel VI-8 Disrespect tegen het openbaar gezag (189 SR)
 
 1. Schuldig is een persoon die opzettelijk een ambtenaar in functie verbaal probeert te beledigen, op zowel persoonlijke als niet-personlijke wijze.
 2. Schuldig is een persoon die opzettelijk het openbaar gezag probeert te beledigen via een verbale of non-verbale wijze.
@@ -580,17 +582,19 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Veroordeling bij plegen  | 10 maanden |  |   |
 | Meervoudige plegen | 12 maanden |  |   |
 
-### Artikel VII-17 Corruptie
+### Artikel VI-9 Corruptie
 
 1. APV technische kwestie, bij het willen uitvoeren van corruptie dient dit ten alle tijden overlegt te worden met de Minister van Justitie en Veiligheid (Overheids Coördinator)
 2. Corrupt zijn is ten alle tijden verboden tenzij een aanvraag is gedaan bij de Minister, als deze afgekeurd word en persoon toch corrupt is zal dit leiden tot de volgende straffen.
 3. Corruptie gemeld en goedgekeurd door de Minister kan leiden tot geen strafvervolging, afhankelijk van de situatie.
 4. Corruptie word altijd geregistreerd in het staff-systeem.
 
-**1e overtreding:** Boete van 8.000.000 + melding naar leiding, die bepaalt of je ontslagen wordt
-**2e overtreding:** Boete van  15.000.000 miljoen + ontslag
-**3e overtreding:** Boete van  20.000.000 miljoen + ontslag + permanente overheidsjob blacklist
+|  |Celstraf  | Notitie | 
+|---|---|---|
+| **1e overtreding:** | Boete van 8.000.000  | melding naar leiding, die bepaalt of je ontslagen wordt 
+| **2e overtreding:** | Boete van  15.000.000 miljoen  | ontslag
+| **3e overtreding:** | Boete van  20.000.000 miljoen  |  ontslag + permanente overheidsjob blacklist
 
 
 ---------------------
-*Wetboek ZuiderStad is opgesteld uit naam van de Hoge Raad en Korpsleiding, bedoeld voor de gemeente en de stad “ZuiderStad”
+*Wetboek ZuiderStad is opgesteld uit naam van de Hoge Raad, Overheids Coördinator Kar Bonkel en Korpsleiding, bedoeld voor de gemeente en de stad “ZuiderStad”
