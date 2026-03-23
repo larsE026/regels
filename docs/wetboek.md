@@ -72,18 +72,18 @@
 6. Daders en medeplichtigen van een strafbaar feit worden gestraft volgens de strafbepaling van het desbetreffende artikel.
 7. Indien er onduidelijkheid is over medeplegen of medeplichtigheid tijdens een strafzaak dan kan een Hulpofficier van Justitie, Officier van Justitie of in uiterste gevallen een rechter hierover een eindoordeel vellen.
 
-### A6 - Inbeslagnemen goederen bij veroordeling 
+### A6 - Inbeslagname goederen bij veroordeling 
 
 1. Goederen die afgenomen moeten worden bij veroordeling;
    1. Communicatie middelen (Telefoon/Radio)
    2. Illegale goederen en goederen verkregen vanuit het plegen van een strafbaar feit (wapens, drugs, zwart geld, gestolen spullen etc.) 
    3. Gereedschappen, met uitzondering van een repair kit (lockpick, drilboor, etc.)
+   4. Jute Zak
 2. Goederen die niet afgenomen mogen worden bij veroordeling;
    1. Eten en drinken
    2. Repair kits
    3. GPS systeem
    4. Contante met geldige verklaring van herkomst.
-   5. Jute zak
 
 
 ## Titel I - Vermogensdelicten
